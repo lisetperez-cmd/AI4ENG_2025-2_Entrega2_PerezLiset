@@ -7,7 +7,7 @@ Este repositorio contiene el proyecto desarrollado para el curso **IA para Cienc
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 **Liset Pérez**  
 C.C. 1044509701  
@@ -15,10 +15,13 @@ Ingeniería Industrial
 
 ---
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 - Explorar y analizar el conjunto de datos de estudiantes.  
 - Identificar patrones relevantes mediante análisis exploratorio (EDA).  
 - Preprocesar datos: limpieza, imputación, codificación y transformación.  
 - Entrenar modelos predictivos según la competencia de Kaggle.  
 - Documentar de forma clara las fases del proceso.
+
+Video Entrega 2
+https://youtu.be/Q5ObiOhGjhg
