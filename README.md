@@ -25,6 +25,7 @@ Ingeniería Industrial
 - Documentar de forma clara las fases del proceso.
 
 Video Entrega 2
+
 https://youtu.be/Q5ObiOhGjhg
 
 ## Archivos del proyecto
