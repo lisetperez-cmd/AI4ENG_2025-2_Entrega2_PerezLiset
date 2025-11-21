@@ -1,5 +1,4 @@
-[02 - preprocesado.ipynb](https://github.com/user-attachments/files/23666045/02.-.preprocesado.ipynb)
-[01_exploración.ipynb](https://github.com/user-attachments/files/23666044/01_exploracion.ipynb)
+
 # AI4ENG_2025-2_Entrega2_PerezLiset
 
 Proyecto – IA para Ciencias e Ingenierías  
@@ -27,3 +26,10 @@ Ingeniería Industrial
 
 Video Entrega 2
 https://youtu.be/Q5ObiOhGjhg
+
+## Archivos del proyecto
+
+[01_exploración.ipynb](https://github.com/user-attachments/files/23666048/01_exploracion.ipynb)
+
+[02 - preprocesado.ipynb](https://github.com/user-attachments/files/23666049/02.-.preprocesado.ipynb)
+
