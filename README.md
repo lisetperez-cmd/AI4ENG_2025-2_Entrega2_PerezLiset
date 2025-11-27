@@ -18,6 +18,8 @@ Ingeniería Industrial
 **Monica Del Castillo**  
 C.C.   
 Ingeniería Industrial 
+
+
 ---
 
 ##  Objetivo del Proyecto
