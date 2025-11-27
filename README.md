@@ -11,12 +11,17 @@ Este repositorio contiene el proyecto desarrollado para el curso **IA para Cienc
 ## Integrantes
 
 **Liset Pérez**  
+
 C.C. 1044509701  
+
 Ingeniería Industrial 
 
 
+
 **Monica Del Castillo García**  
+
 C.C. 1017220985 
+
 Ingeniería Industrial 
 
 
