@@ -14,6 +14,10 @@ Este repositorio contiene el proyecto desarrollado para el curso **IA para Cienc
 C.C. 1044509701  
 Ingeniería Industrial 
 
+
+**Monica Del Castillo**  
+C.C.   
+Ingeniería Industrial 
 ---
 
 ##  Objetivo del Proyecto
