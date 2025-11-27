@@ -16,7 +16,7 @@ Ingeniería Industrial
 
 
 **Monica Del Castillo García**  
-C.C. 1017220985
+C.C. 1017220985 
 Ingeniería Industrial 
 
 
