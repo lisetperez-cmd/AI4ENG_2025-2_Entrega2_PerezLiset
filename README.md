@@ -16,6 +16,8 @@ C.C. 1044509701
 
 Ingeniería Industrial 
 
+Usuario Kaggle:
+
 
 
 **Monica Del Castillo García**  
@@ -23,6 +25,8 @@ Ingeniería Industrial
 C.C. 1017220985 
 
 Ingeniería Industrial 
+
+Usuario Kaggle:
 
 
 ---
