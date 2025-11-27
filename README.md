@@ -28,9 +28,15 @@ Video Entrega 2
 
 https://youtu.be/Q5ObiOhGjhg
 
+Video Entrega Final
+
+
+
 ## Archivos del proyecto
 
 [01_exploración.ipynb](https://github.com/user-attachments/files/23666048/01_exploracion.ipynb)
 
 [02 - preprocesado.ipynb](https://github.com/user-attachments/files/23666049/02.-.preprocesado.ipynb)
+
+[03_modelo_con_preprocesado_y_SVM.ipynb](https://github.com/user-attachments/files/23797950/03_modelo_con_preprocesado_y_SVM.ipynb)
 
