@@ -27,7 +27,7 @@ C.C. 1017220985
 
 Ingeniería Industrial 
 
-Usuario Kaggle:
+Usuario Kaggle: monicadelcastillogar
 
 
 ---
