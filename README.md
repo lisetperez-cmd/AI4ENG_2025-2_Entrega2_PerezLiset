@@ -17,7 +17,7 @@ C.C. 1044509701
 
 Ingeniería Industrial 
 
-Usuario Kaggle:
+Usuario Kaggle: lisetprez
 
 
 
