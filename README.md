@@ -1,4 +1,5 @@
 
+
 # AI4ENG_2025-2_Entrega2_PerezLiset
 
 Proyecto – IA para Ciencias e Ingenierías  
@@ -55,3 +56,6 @@ Video Entrega Final
 
 [03_modelo_con_preprocesado_y_SVM.ipynb](https://github.com/user-attachments/files/23797950/03_modelo_con_preprocesado_y_SVM.ipynb)
 
+[04 - modelo con preprocesado .ipynb](https://github.com/user-attachments/files/23812625/04.-.modelo.con.preprocesado.ipynb)
+
+[99_modelo_solución.ipynb](https://github.com/user-attachments/files/23812626/99_modelo_solucion.ipynb)
