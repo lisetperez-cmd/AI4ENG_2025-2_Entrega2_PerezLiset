@@ -50,12 +50,14 @@ Video Entrega Final
 
 ## Archivos del proyecto
 
-[01_exploración.ipynb](https://github.com/user-attachments/files/23666048/01_exploracion.ipynb)
+[01 - exploración.ipynb](https://github.com/user-attachments/files/23813114/01.-.exploracion.ipynb)
 
-[02 - preprocesado.ipynb](https://github.com/user-attachments/files/23666049/02.-.preprocesado.ipynb)
+[02 - preprocesado.ipynb](https://github.com/user-attachments/files/23813115/02.-.preprocesado.ipynb)
 
-[03_modelo_con_preprocesado_y_SVM.ipynb](https://github.com/user-attachments/files/23797950/03_modelo_con_preprocesado_y_SVM.ipynb)
+[03- modelo con preprocesado y SVM.ipynb](https://github.com/user-attachments/files/23813116/03-.modelo.con.preprocesado.y.SVM.ipynb)
 
-[04 - modelo con preprocesado .ipynb](https://github.com/user-attachments/files/23812625/04.-.modelo.con.preprocesado.ipynb)
+[04 - modelo con preprocesado .ipynb](https://github.com/user-attachments/files/23813117/04.-.modelo.con.preprocesado.ipynb)
 
-[99_modelo_solución.ipynb](https://github.com/user-attachments/files/23812626/99_modelo_solucion.ipynb)
+[99 - modelo_solución.ipynb](https://github.com/user-attachments/files/23813118/99.-.modelo_solucion.ipynb)
+
+
