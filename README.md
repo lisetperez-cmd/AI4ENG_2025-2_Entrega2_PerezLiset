@@ -1,6 +1,6 @@
 
 
-# AI4ENG_2025-2_Entrega2_PerezLiset
+# AI4ENG_2025-2_EntregaDila_PerezLiset_DelCastilloMonica
 
 Proyecto – IA para Ciencias e Ingenierías  
 **Predicción y análisis de datos estudiantiles (Competencia Kaggle)**
