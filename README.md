@@ -58,7 +58,7 @@ https://youtu.be/dXYWeATPu2I
 
 [03- modelo con preprocesado y SVM.ipynb](https://github.com/user-attachments/files/23813116/03-.modelo.con.preprocesado.y.SVM.ipynb)
 
-[04 - modelo con preprocesado .ipynb](https://github.com/user-attachments/files/23813117/04.-.modelo.con.preprocesado.ipynb)
+[04-modelo-con-preprocesado-eliminando-factores-y-RandomForest.ipynb](https://github.com/user-attachments/files/23934759/04-modelo-con-preprocesado-eliminando-factores-y-RandomForest.ipynb)
 
 [99 - modelo_solución.ipynb](https://github.com/user-attachments/files/23813118/99.-.modelo_solucion.ipynb)
 
